@@ -1,0 +1,13 @@
+{
+  "name": "impact-verdict",
+  "owner": {
+    "name": "junhyuk-yoon"
+  },
+  "plugins": [
+    {
+      "name": "impact-verdict",
+      "source": "./",
+      "description": "A Claude skill that judges whether a promotion, feature, or price change actually worked when there was no randomized experiment."
+    }
+  ]
+}
